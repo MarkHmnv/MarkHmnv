@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="font-size: 12px">I'm Mark Himonov, a back-end developer from Ukraine. I have experience in building robust, scalable, and secure web applications.</p>
+<p style="font-size: 14px">I'm Mark Himonov, a back-end developer from Ukraine. I have experience in building robust, scalable, and secure web applications.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
