@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mark Himonov, a back-end developer from Ukraine. I have experience in building robust, scalable, and secure web applications.
+I'm Mark Himonov, a Python developer from Ukraine. I have experience in building robust, scalable and secure applications.
 
 #### Languages and Tools:
 
