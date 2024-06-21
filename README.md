@@ -26,4 +26,4 @@ I'm Mark Himonov, a Python developer from Ukraine. I have experience in building
 #### Connect with me:
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" />](https://www.linkedin.com/in/mark-hmnv/)
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" />](mailto:skrytyjinkognito54@gmail.com)
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" />](mailto:mark.himonov1@gmail.com)
